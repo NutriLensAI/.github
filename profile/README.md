@@ -12,7 +12,7 @@ The background for our project lies in the increasing prevalence of health issue
 
 | Name                | Bangkit ID | Path | University | Contact |
 |---------------------|------------|----------------|-----------------------|---------|
-|Zidan Qurosey Sabilla|M008D4KY3252|Machine Learning|Universitas Gadjah Mada|[LinkedIn](https://www.linkedin.com/in/zidanqrs/)|
+|Zidan Qurosey Sabilla|M008D4KY3252|Machine Learning|Universitas Gadjah Mada|[LinkedIn](https://www.linkedin.com/in/zidanqrs/)[Kaggle](https://www.kaggle.com/zidanqrs)|
 |Adyuta Indra Adyatma |M214D4KY1952|Machine Learning|Universitas Islam Indonesia| |
 |Salsabila Sofia Azzahra|M011D4KX2131|Machine Learning|Universitas Padjadjaran| |
 |Faisal Ikhwan Arianto|C297D4KY1250|Cloud Computing|UPN "Veteran" Yogyakarta| |
