@@ -12,13 +12,13 @@ The background for our project lies in the increasing prevalence of health issue
 
 | Name                | Bangkit ID | Path | University | Contact |
 |---------------------|------------|----------------|-----------------------|---------|
-|Zidan Qurosey Sabilla|M008D4KY3252|Machine Learning|Universitas Gadjah Mada|[LinkedIn](https://www.linkedin.com/in/zidanqrs/)|
-|Adyuta Indra Adyatma |M214D4KY1952|Machine Learning|Universitas Islam Indonesia| |
-|Salsabila Sofia Azzahra|M011D4KX2131|Machine Learning|Universitas Padjadjaran| |
-|Faisal Ikhwan Arianto|C297D4KY1250|Cloud Computing|UPN "Veteran" Yogyakarta| |
-|Audito Onny Saputra|C297D4KY1258|Cloud Computing|UPN "Veteran" Yogyakarta| |
-|Ardy Fahriansyah|A012D4KY3869|Mobile Development|Telkom University| |
-|Pavel Manaf El Zaky|A012D4KY4057|Mobile Development|Telkom University| |
+|Zidan Qurosey Sabilla|M008D4KY3252|Machine Learning|Universitas Gadjah Mada|[LinkedIn](https://www.linkedin.com/in/zidanqrs/),[Kaggle](https://www.kaggle.com/zidanqrs)|
+|Adyuta Indra Adyatma |M214D4KY1952|Machine Learning|Universitas Islam Indonesia|[LinkedIn](https://www.linkedin.com/in/adyutaindra/)|
+|Salsabila Sofia Azzahra|M011D4KX2131|Machine Learning|Universitas Padjadjaran|[LinkedIn](https://www.linkedin.com/in/salsabilasaz/)|
+|Faisal Ikhwan Arianto|C297D4KY1250|Cloud Computing|UPN "Veteran" Yogyakarta||
+|Audito Onny Saputra|C297D4KY1258|Cloud Computing|UPN "Veteran" Yogyakarta|[LinkedIn](https://www.linkedin.com/in/auditoosaputra/)|
+|Ardy Fahriansyah|A012D4KY3869|Mobile Development|Telkom University|[LinkedIn](https://www.linkedin.com/in/ardyfahriansyah/)|
+|Pavel Manaf El Zaky|A012D4KY4057|Mobile Development|Telkom University|[LinkedIn](https://www.linkedin.com/in/pavel-manaf-el-zaky-24a267301/)|
 
 ## Resource
 - Machine Learning Repository: 
